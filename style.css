@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  h1,
+  button {
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 600;
+  }
+  
+  button {
+    font-weight: 400;
+  }
+  
+  @media (min-width: 1024px) {
+    body {
+      overflow: hidden;
+    }
+  }
